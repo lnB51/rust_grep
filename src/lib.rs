@@ -42,6 +42,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>>{
         for line in results {
             println!("{}", line);
         }
+        println!();
     } else{
         println!("\x1b[38;2;237;237;0;1mNothing found\x1b[0m\n");
     }
