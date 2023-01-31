@@ -64,13 +64,11 @@ Run the project using Cargo:
 ### Examples:
 
 #### Case insensitive in file:
-
-![Case insesitive in file](https://github.com/b1rd-dev/rust_grep/blob/main/exaples/case_insensitive_in_file.png)
+[<img src="./exaples/case_insensitive_in_file.png" width="600px"/>](https://github.com/b1rd-dev/rust_grep/blob/main/exaples/case_insensitive_in_file.png)
 
 #### Case sensitive in string:
-
-![Case sesitive in string](https://github.com/b1rd-dev/rust_grep/blob/main/exaples/case_sensitive_in_string.png)
+[<img src="./exaples/case_sensitive_in_string.png" width="600px"/>](https://github.com/b1rd-dev/rust_grep/blob/main/exaples/case_sensitive_in_string.png)
 
 #### Case insensitive in string:
 
-![Case insesitive in string](https://github.com/b1rd-dev/rust_grep/blob/main/exaples/case_insensitive_in_string.png)
+[<img src="./exaples/case_insensitive_in_string.png" width="600px"/>](https://github.com/b1rd-dev/rust_grep/blob/main/exaples/case_insensitive_in_string.png)
