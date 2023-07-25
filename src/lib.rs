@@ -1,7 +1,7 @@
 /*
 Lib file of rust grep project, contains all structs, enums and functions.
 License: MIT
-Github repo: https://github.com/b1rd-dev/rust_grep
+Github repo: https://github.com/lnB51/rust_grep
 */
 
 #![allow(unused_assignments)]
