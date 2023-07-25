@@ -8,7 +8,7 @@
 
 Download source code from github: 
 
-`git clone https://github.com/b1rd-dev/rust_grep`
+`git clone https://github.com/lnB51/rust_grep`
 
 Run the project using Cargo:
 
