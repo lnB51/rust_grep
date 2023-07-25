@@ -1,7 +1,7 @@
 /* 
 Main file of rust grep project.
 License: MIT
-Github repo: https://github.com/b1rd-dev/rust_grep
+Github repo: https://github.com/lnB51/rust_grep
 */
 
 use std::env;
